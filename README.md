@@ -23,4 +23,4 @@ A Swift app for logging and tracking data. This iOS application provides a simpl
 
 ## License
 
-This project is available under the MIT license. See the LICENSE file for more info. 
+This project is available under the MIT license. See the LICENSE file for more info.
